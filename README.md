@@ -23,7 +23,7 @@ AutoOrg Once - runs once.
    -Paste shortcut.<br />
    -Restart<br />
    
-2. AutoOrg Oncev1.0 setup<br />
+2. AutoOrg Once v1.0 setup<br />
   -Run Setup<br />
   -Start program.<br />
 
