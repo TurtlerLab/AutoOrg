@@ -19,6 +19,7 @@ AutoOrg Once - runs once.
    -Run setup.<br />
    -Copy shortcut.<br />
    -[Win] + [R]<br />
+   -Type "shell:startup" and hit [Enter]<br />
    -Paste shortcut.<br />
    -Restart<br />
    
