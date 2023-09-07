@@ -3,6 +3,11 @@
 # Function:
 
 AutoOrg - constantly runs.
+
+1. Checks the default Downloads folder for audio, image, video files.
+2. Moves the files to default Music, Pictures and Videos respectively.
+3. Runs in the background and constatly moves the files as they're coming in (manually moving a file into Downloads, downloading from a browser, taking screenshots in a browser)
+
 AutoOrg Once - runs once.
 
 1. Checks the default Downloads folder for audio, image, video files.
