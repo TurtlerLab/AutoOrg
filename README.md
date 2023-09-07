@@ -15,12 +15,12 @@ AutoOrg Once - runs once.
 3. Program closes once the process has been completed.
 
 # Setup:
-1. AutoOrg v1.0 setup
-   -Run setup.
-   -Copy shortcut.
-   -[Win] + [R]
-   -Paste shortcut.
-   -Restart
+1. AutoOrg v1.0 setup<br />
+   -Run setup.<br />
+   -Copy shortcut.<br />
+   -[Win] + [R]<br />
+   -Paste shortcut.<br />
+   -Restart<br />
    
 2. AutoOrg Oncev1.0 setup
   -Run Setup
